@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Cesar Gomez 👋
 
-<!--
-**cesargomezcis26/cesargomezcis26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Information Systems student at Cal Poly Pomona with a focus on Data Analytics, Business Intelligence, and Data Warehousing.
 
-Here are some ideas to get you started:
+I enjoy working with data to uncover insights, solve business problems, and support data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- **Languages:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Excel
+- **Machine Learning:** Scikit-learn
+- **Databases:** SQL Server, MySQL
+- **Web:** HTML, CSS
+- **Currently Learning:** Data Warehousing, Business Intelligence, ETL
+
+## 📊 Featured Projects
+
+Projects coming soon.
+
+## 📫 Connect With Me
+
+- LinkedIn: Coming soon
+- Portfolio: Coming soon
